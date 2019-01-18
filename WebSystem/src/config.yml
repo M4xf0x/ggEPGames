@@ -1,0 +1,6 @@
+ftp:
+  ready: false
+  server: 'server'
+  port: 21
+  user: 'user'
+  password: 'password'
