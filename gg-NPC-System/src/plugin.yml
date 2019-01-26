@@ -1,0 +1,8 @@
+name: npcSystem
+version: 0.5
+author: M4Twaily
+main: de.m4twaily.npc.main.Main
+description: ncpSystem
+
+commands:
+  npc:
